@@ -10,7 +10,7 @@ alvfaye/alvfaye is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ###
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alvfaye&theme=monokai)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alvfaye&theme=jolly)](https://git.io/streak-stats)
 
 
 
