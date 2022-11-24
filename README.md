@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Faye
 - 👀 I’m interested in fullstack web and mobile development   
-- 🌱 I’m currently working on building fullstack app with Next.js, Typescript, Prisma & PostgreSQL
+- 🌱 I’m currently working on building fullstack app with React, Typescript, Prisma & PostgreSQL
 - 💞️ I’m looking to collaborate on anything related to fullstack web development
 - 📫 Any freelance work? Please feel free to reach out via alvfaye@gmail.com
 
