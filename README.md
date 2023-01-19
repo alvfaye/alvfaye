@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
 ##
 ###### <a href="https://www.vecteezy.com/free-vector/female-developer">Female Developer Vectors by Vecteezy</a>
 <!-- 
-<img src ="https://github-readme-stats.vercel.app/api?username=alvfaye" />  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alvfaye)](https://git.io/streak-stats)
 -->
