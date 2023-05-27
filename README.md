@@ -3,6 +3,7 @@
 - 🌱 I’m currently working on building fullstack apps with React, Typescript, Node.js, MongoDB 
 - 💞️ I’m looking to collaborate on anything related to fullstack web development
 - 📫 Any freelance work? Please feel free to reach out via alvfaye@gmail.com
+- 💻 Tech Stack:  Rust, Typescript, React, NextJS, Web3, Postgres, Mongodb, Mocha, Jest
 
 ![enter image description here](https://res.cloudinary.com/faealv/image/upload/c_scale,w_417/v1657006210/github/faye2022_bhp7ec.jpg)
 ## My GitHub Stats
