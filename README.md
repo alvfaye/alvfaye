@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Faye
 - 👀 I’m interested in fullstack web and mobile development   
-- 🌱 I’m currently working on building fullstack apps with Svelte 4
+- 🌱 I’m currently working on building fullstack apps with Svelte, SvelteKit, Postgres
 - 💞️ I’m looking to collaborate on anything related to fullstack web development
 - 📫 Any freelance work? Please feel free to reach out via alvfaye@gmail.com
 - 💻 Tech Stack:  Svelte, Rust, Typescript, React, NextJS, Web3, Postgres, Mongodb, Mocha, Jest
