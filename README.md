@@ -7,7 +7,7 @@
 
 ![enter image description here](https://res.cloudinary.com/faealv/image/upload/c_scale,w_417/v1657006210/github/faye2022_bhp7ec.jpg)
 ## My GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=alvfaye&theme=material-palenight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alvfaye&theme=ads-juicy-fresh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!---
 alvfaye/alvfaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
